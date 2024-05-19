@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "gadgetindia backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rincemathew/gadget-nextjs.git"
+  },
+  "author": "Rince Mathew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rincemathew/gadget-nextjs/issues"
+  },
+  "homepage": "https://github.com/rincemathew/gadget-nextjs#readme"
+}
